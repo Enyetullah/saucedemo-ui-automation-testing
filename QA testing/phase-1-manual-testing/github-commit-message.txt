@@ -1,0 +1,1 @@
+Add Phase 1 manual UI testing documentation for SauceDemo
